@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
   MainContainer: {
     width: '100%',
     paddingTop: 50,
-    backgroundColor: '#FF6347',
+    backgroundColor: '#f7947c',
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
